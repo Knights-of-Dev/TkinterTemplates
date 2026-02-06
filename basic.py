@@ -1,6 +1,6 @@
 import tkinter as tk
 #functions
-def leave:
+def leave():
     root.destroy()
 
 
